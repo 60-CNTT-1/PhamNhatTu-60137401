@@ -1,0 +1,57 @@
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+ 
+header {
+    height: 130px;
+    padding: 4em;
+    color: orange;
+    background-image: url("C:/Users/ASUS/Documents/GitHub/PhamNhatTu-60137401/kiemtra/tainguyen/mixed-logo.jpg");
+    clear: left;
+    text-align: center;
+}
+#menutop
+{
+    background: silver;
+    height: 40px;
+    
+}
+footer
+{
+    padding: 2em;
+    color: white;
+    background-color: blue;
+    clear: left;
+    text-align: center;
+}
+nav {
+    float: right;
+    max-width: 300px;
+    margin: 3;
+    padding: em;
+}
+ #main #dangnhap {
+    background: #e6e6e6;
+    width: 300px;
+    float: left;
+    min-height:400px;
+    text-align: left;
+}
+
+
+nav ul {
+    list-style-type: none;
+    padding: 1;
+}
+    
+nav ul a {
+    text-decoration: none;
+}
+ 
+article {
+    margin-left: : 350px;
+    border-left: 1px solid gray;
+    padding: 9em;
+    overflow: hidden;
+}
